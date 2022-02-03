@@ -1,6 +1,7 @@
 O artigo [Design Patterns for Humans](https://github.com/kamranahmedse/design-patterns-for-humans) do [kamranahmedse](https://github.com/kamranahmedse/) traduzido para Português Brasileiro. 
+---
 
-Leia a [Wiki](https://github.com/RickBarretto/design-patterns-for-humans/wiki), onde está o artigo traduzido.
+# Leia a [O artigo traduzido na Wiki](https://github.com/RickBarretto/design-patterns-for-humans/wiki)
 
 ## 👬 Contribution
 
